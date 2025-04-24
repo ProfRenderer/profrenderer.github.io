@@ -1,0 +1,7 @@
+baseURL = 'https://profrenderer.github.io/'
+languageCode = 'en-us'
+title = 'Prof. Renderer's Ring-Mix Machine'
+theme: ["PaperMod"]
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
